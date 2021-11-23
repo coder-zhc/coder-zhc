@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder-zhc
 - 👀 I’m interested in Web
-- 🌱 I’m currently learning webpack
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
